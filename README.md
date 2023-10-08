@@ -1,3 +1,5 @@
 # mergeConflict
-edits from second-branch
-sneakers to boots
+sparky is watching you
+and thinking
+about something mysterious
+
